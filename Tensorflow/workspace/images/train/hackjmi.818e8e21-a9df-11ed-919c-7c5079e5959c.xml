@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hackjmi.818e8e21-a9df-11ed-919c-7c5079e5959c.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\hackjmi.818e8e21-a9df-11ed-919c-7c5079e5959c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HackJMI</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>234</ymin>
+			<xmax>538</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>
